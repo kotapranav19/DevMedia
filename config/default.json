@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://dev1:1234@cluster0.5xj85z4.mongodb.net/Demo?retryWrites=true&w=majority" , 
+    "jwtSecret" : "myjwttokensecret1909", 
+    "githubClientId": "",  
+    "githubSecret" : ""
+}
